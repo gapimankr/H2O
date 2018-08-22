@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/gapimankr/H2O/master/h2omn.sh && chmod +x
 After MN start installation on VPS or it just finish you need to configure the desktop wallet. 
 1. Open H2O wallet. If you do not have check [here](https://github.com/h2ocore/h2o/releases)
 2. Go to "**Receive**" and create new address. In to "**Label:**" write your mn label and click on "**Request payment**". Then copy address.
-3. Go to "**Send**". In to "**Pay To:**" paste new address and in to "**Amount:**" write exactly 1000 H2O and press "**Send**" 
+3. Go to "**Send**". In to "**Pay To:**" paste new address and in to "**Amount:**" write exactly 15000 H2O and press "**Send**" 
 4. Wait that payment will have complete confirmations.
 5. Go to "**Tools**" -> "**Debug Console**" -> "**Console**"
 6. Type the following command: "**masternode genkey**" and "**masternode outputs**"
